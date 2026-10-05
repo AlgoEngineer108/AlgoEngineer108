@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1c1917,45:7c2d12,75:b45309,100:f59e0b&height=230&section=header&text=Alogo%20Engineer&fontSize=60&fontColor=fef3c7&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Pipelines%20%E2%80%A2%20Platforms%20%E2%80%A2%20Performance&descSize=18&descAlignY=64&fontAlignY=38" width="100%" alt="Algo Engineer, Data Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1c1917,45:7c2d12,75:b45309,100:f59e0b&height=230&section=header&text=Algo%20Engineer&fontSize=60&fontColor=fef3c7&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Pipelines%20%E2%80%A2%20Platforms%20%E2%80%A2%20Performance&descSize=18&descAlignY=64&fontAlignY=38" width="100%" alt="Algo Engineer, Data Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1500&color=F59E0B&center=true&vCenter=true&width=780&lines=Data+Engineer+who+thinks+in+algorithms;O(n%C2%B2)+pipelines+%E2%86%92+O(n)+pipelines;Batch+%2B+Streaming+%2B+CDC+at+scale;Fewer+full+scans.+Lower+bills.+Fresher+data.;From+raw+events+to+trusted+tables" alt="Typing SVG" />
